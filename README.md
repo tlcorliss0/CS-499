@@ -8,7 +8,8 @@ In my artifact enhancement I rebuilt the entire code structure and made a more c
 
 WIP
 Second artifact Algorithms and Data Structures
-Work from CS-340 Rescue animal search algorithm.
+Work from CS-340 Rescue animal search algorithm. I refined the sorting algorithm to be mroe modular and reusable to allow for broader searches and using different spreadsheets if you were to upload those into the program.
 
 Third artifact Databases
-Work from CS-320 account creation database integrating MongoDB.
+I used the project from CS-340 as a base for both artifadct 2 and 3. In order to meet the requirements of the database enhancement I linked the project with a local instance of mongoDB
+with user verification to meet the course learrning outcomes.
